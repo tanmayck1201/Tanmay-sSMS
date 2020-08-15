@@ -1,0 +1,72 @@
+.admintitle
+{
+    background-color: #4629c7;
+    color: #fff;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 100px;
+    line-height: 100px;
+    
+}
+
+.dashboard
+{
+    background-color: hsl(350, 70%, 52%);
+    color: rgb(216, 120, 31);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    height: 70px;
+    font-size: 95px;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .img{
+    opacity: 85%;
+    /* The image used */
+    background-image: url("sms.jpg");
+    
+    /* Full height */
+    height: 100%; 
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    text-align: center;
+    position: relative;
+    color: green;
+    }
+
+    .tab{
+        position: absolute;
+        top: 250px;
+        left: 450px;
+        font-size: 30px;
+        color: #1a0649de;
+    }
+
+    .head{
+        position: absolute;
+        top: 10%;
+        left: 16%;
+        font-size: 50px;
+        color: rgb(20, 220, 70);
+    }
+
+    .login{
+        position: absolute;
+        top: 5%;
+        left: 90%;
+    }
+
+    .tb{
+        font-size: 35px;
+        margin-top: 10%;
+    }
